@@ -7,13 +7,13 @@ permalink:        pretty
 
 # Setup
 title:            Hi. I'm Donald
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:          'The other Donald. The one that does data science.'
+description:      'This is where I put things I want the world to see, even if the world doesn't want to see them.'
 baseurl:          https://dleebrown.github.io/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Donald Lee-Brown'
+  url:            https://twitter.com/physicsbliss
 
 paginate:         5
 
@@ -21,4 +21,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/dleebrown/dleebrown.github.io
