@@ -6,14 +6,15 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hi. I'm Donald
-tagline:          'Not that Donald. The other one.'
-description:      'I do data science. <a href="https://twitter.com/physicsbliss" target="_blank">@PhysicsBliss</a>.'
+title:            Hi. I'm Donald.
+tagline:          'I do data science.'
+description:      'I do data science.  <a href="https://twitter.com/physicsbliss" target="_blank">@PhysicsBliss</a>  <a href="https://github.com/dleebrown" target="_blank">GitHub</a>  <a href="https://www.linkedin.com/in/donaldbleebrown
+" target="_blank">LinkedIn</a>'
 baseurl:          https://dleebrown.github.io/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Donald Lee-Brown'
+  url:            https://twitter.com/physicsbliss
 
 paginate:         5
 
