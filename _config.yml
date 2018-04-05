@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Hi. I'm Donald.
 tagline:          'I do data science.'
-description:      'I do data science. <br/> <a href="https://twitter.com/physicsbliss" target="_blank">@PhysicsBliss</a>'
+description:      'I do data science.  <a href="https://twitter.com/physicsbliss" target="_blank">@PhysicsBliss</a>'
 baseurl:          https://dleebrown.github.io/
 
 author:
