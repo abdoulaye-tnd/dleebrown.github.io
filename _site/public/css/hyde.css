@@ -175,7 +175,7 @@ a.sidebar-nav-item:focus {
  * within blog posts. To use, add the class of your choosing to the `body`.
  */
 
-/* Base16 (http://chriskempson.github.io/base16/#default) */
+/* Base16 (https://chriskempson.github.io/base16/#default) */
 
 /* Red */
 .theme-base-08 .sidebar {
@@ -251,9 +251,10 @@ a.sidebar-nav-item:focus {
 
 /* MY SITE */
 .theme-base-0g .sidebar {
-  background-color: #008080;
+  background-color: #8f5536;
 }
-.theme-base-0f .content a,
-.theme-base-0f .related-posts li a:hover {
-  color: #008080;
+.theme-base-0g .content a,
+.theme-base-0g .related-posts li a:hover {
+  color: #8f5536;
 }
+
