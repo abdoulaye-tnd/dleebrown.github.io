@@ -79,7 +79,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Crimson Text", serif;
+  font-family: "Patua One", serif;
   font-size: 3.25rem;
 }
 
@@ -251,10 +251,10 @@ a.sidebar-nav-item:focus {
 
 /* MY SITE */
 .theme-base-0g .sidebar {
-  background-color: #008B8B;
+  background-color: #008b8b;
 }
 .theme-base-0g .content a,
 .theme-base-0g .related-posts li a:hover {
-  color: #008B8B;
+  color: #008b8b;
 }
 
