@@ -13,5 +13,5 @@ Outside of my work, I usually spend my weekend free time brewing my next batch o
 
 Feel free to get in touch with me on [Twitter](https://twitter.com/physicsbliss) or [LinkedIn](https://www.linkedin.com/in/donaldbleebrown) - I'm always happy to talk or answer questions! Most of my current projects can be found on my [GitHub](https://github.com/dleebrown). 
 
-<font color="#cccccc">This website is powered by [Hyde](https://github.com/poole/hyde) under the [MIT License](https://github.com/poole/hyde/blob/master/LICENSE.md).</font>
+This website is powered by [Hyde](https://github.com/poole/hyde) under the [MIT License](https://github.com/poole/hyde/blob/master/LICENSE.md).
 
