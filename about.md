@@ -3,23 +3,15 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I'm currently a Ph.D. student in the [Department of Physics and Astronomy](https://physics.ku.edu/) at the University of Kansas. My thesis research is focused on finding and studying super metal-rich stars, which are a rare subclass of stars that represent the extreme end of the Milky Way's chemical evolution. Stars are the factories that produce most of the elements that make up the world around us, and super metal-rich stars are an important tool for understanding some of the internal processes that govern this production. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+As an astronomer, I've been heavily involved data science throughout my academic career, and have extensive experience designing and completing data-driven projects to answer specific questions. I'm especially interested in applications of machine learning - part of my thesis project is a new Python [code](https://github.com/dleebrown/ANNA) to automatically analyze stellar spectra using a convolutional neural network. This code determines fundamental parameters of stars (such as surface temperature) many orders of magnitude more rapidly than existing techniques, and often does so more accurately as well. I also dabble in Kaggle competitions from time to time in order to keep up with new developments in machine learning, and have experience applying a wide variety of general-purpose statistical tools as well.
 
-There are currently two themes built on Poole:
+What I've realized during graduate school is that while I enjoy my astronomy research, I am passionate about data science in general. I love starting with an idea, finding the stories hidden in some data, and translating those stories into concrete results. My goal is to transition into a career in data science to pursue this passion. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Outside of my work, I usually spend my weekend free time brewing my next batch of beer or cooking something French. I also enjoy hiking and camping. 
 
-## Setup
+Feel free to get in touch with me on [Twitter](https://twitter.com/physicsbliss) or [LinkedIn](https://www.linkedin.com/in/donaldbleebrown) - I'm always happy to talk or answer questions! Most of my current projects can be found on my [GitHub](https://github.com/dleebrown). 
 
-Some fun facts about the setup of this project include:
+<font color="#cccccc">This website is powered by [Hyde](https://github.com/poole/hyde) under the [MIT License](https://github.com/poole/hyde/blob/master/LICENSE.md).</font>
 
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
